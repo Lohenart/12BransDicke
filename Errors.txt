@@ -1,0 +1,4 @@
+
+
+NaN value of lnprob for parameters: 
+[  7.98973405e+02   1.47231554e+00   9.84080219e-04]
